@@ -1,5 +1,5 @@
-package mineAlgorithm;
-
+package mineAlgorithm; 
+ 
 public class BirthdayCandle {
 	
 	public void doBirthdayCandle() {
